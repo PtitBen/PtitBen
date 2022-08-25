@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PtitBen, or Ben, or Benjamin.
 - 🤓 I have a designer background
 - 🧑‍💻 I'm currently running Design Operations at Centrica
-- 🧠 I've got a strong interest in accessibilty, problem solving, and desisgn systems
+- 🧠 I've got a strong interest in accessibilty, problem solving, and design systems
 - 💬 Easiest way to reach out is finding me on twitter: [@PtitBen](https://twitter.com/PtitBen)
 
 <!---
